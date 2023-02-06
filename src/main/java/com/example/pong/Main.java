@@ -38,7 +38,6 @@ public class Main extends Application {
     int score1 = 0;
     int score2 = 0;
 
-
     @Override
     public void start(Stage primaryStage) {
         ball = new Circle(ballX, ballY, 10, Color.WHITE);
